@@ -1,0 +1,10 @@
+numpy 
+pandas 
+math 
+opencv-python 
+time 
+collections 
+sqlalchemy 
+scikit-learn
+tensorflow
+imutils
